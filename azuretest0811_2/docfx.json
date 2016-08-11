@@ -7,7 +7,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "azuretest0811_2/**",
+          "markdown templates/**",
           "**/includes/**"
         ]
       }
